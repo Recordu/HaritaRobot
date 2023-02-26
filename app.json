@@ -9,7 +9,7 @@
          "manager",
          "Miley"
       ],   
-   "repository": "https://github.com/TeamEviral/HaritaRobot",
+   "repository": "https://github.com/Recordu/HaritaRobot",
    "addons": [
       {
          "options": {
@@ -87,5 +87,5 @@
       "Miley"
    ],
    "name": "Harita",
-   "repository": "https://github.com/TeamEviral/HaritaRobot"
+   "repository": "https://github.com/Recordu/HaritaRobot"
 }
